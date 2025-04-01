@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/A+I730+gQ=",
+  "dgSpecHash": "6tlXuTksRIs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\islim\\OneDrive\\Masaüstü\\Taskly\\TasklyAPI\\TasklyAPI.csproj",
+  "projectFilePath": "C:\\Taskly Proje\\Taskly\\TasklyAPI\\TasklyAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\islim\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\islim\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
