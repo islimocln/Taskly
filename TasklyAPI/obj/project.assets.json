@@ -5235,11 +5235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Taskly Proje\\Taskly\\TasklyAPI\\TasklyAPI.csproj",
+      "projectUniqueName": "C:\\Users\\islim\\Taskly Project\\Taskly\\TasklyAPI\\TasklyAPI.csproj",
       "projectName": "TasklyAPI",
-      "projectPath": "C:\\Taskly Proje\\Taskly\\TasklyAPI\\TasklyAPI.csproj",
+      "projectPath": "C:\\Users\\islim\\Taskly Project\\Taskly\\TasklyAPI\\TasklyAPI.csproj",
       "packagesPath": "C:\\Users\\islim\\.nuget\\packages\\",
-      "outputPath": "C:\\Taskly Proje\\Taskly\\TasklyAPI\\obj\\",
+      "outputPath": "C:\\Users\\islim\\Taskly Project\\Taskly\\TasklyAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 24.2\\Components\\Offline Packages",

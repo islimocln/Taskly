@@ -1,11 +1,10 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import { registerRootComponent } from 'expo';
 
-function App() {
+export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>🎉 Merhaba İslim! Taskly ÇALIŞIYOR!</Text>
+      <Text style={styles.text}>Taskly Mobil Uygulaması</Text>
     </View>
   );
 }
@@ -15,13 +14,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#ffffff',
+    backgroundColor: 'white',
   },
   text: {
-    fontSize: 22,
-    color: '#000000',
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: 'black',
   },
 });
-
-registerRootComponent(App);
-export default App;
